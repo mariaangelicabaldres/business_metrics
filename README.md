@@ -80,16 +80,16 @@ The previous workflow required extensive manual effort for every reporting cycle
 ### What Gets Automated
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────────────────────────┐
 │  MANUAL (Still Required)          │  AUTOMATED (By This System)            │
-├───────────────────────────────────┼─────────────────────────────────────────┤
+├───────────────────────────────────┼────────────────────────────────────────┤
 │  • Download raw data exports      │  • Data cleaning & transformation      │
 │  • Place files in data/ folder    │  • Sorting & categorization            │
 │  • Update date configuration      │  • Metric computation                  │
 │                                   │  • Chart generation                    │
 │                                   │  • Table creation (WoW, MoM)           │
 │                                   │  • Report document assembly            │
-└───────────────────────────────────┴─────────────────────────────────────────┘
+└───────────────────────────────────┴────────────────────────────────────────┘
 ```
 
 ### Time Savings
