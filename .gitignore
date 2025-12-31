@@ -1,0 +1,30 @@
+# Raw data (contains sensitive/proprietary information)
+data/
+
+# Notebooks excluded from public repo (uses non-anonymized data)
+notebooks/01_newsletter_series.ipynb
+
+# Generated outputs (regenerable from notebooks)
+outputs/
+visualizations/
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/

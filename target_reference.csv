@@ -1,0 +1,138 @@
+Metric,Target_Value
+
+NEWSLETTER SERIES - MONTHLY
+Case Study Open Rate,60.0
+Deal Open Rate,60.0
+Off-Market Open Rate,60.0
+Podcast Open Rate,60.0
+Blended Open Rate, 60.0
+Case Study Verified Click-Through Rate,1.5
+Deal Verified Click-Through Rate,1.5
+Off-Market Verified Click-Through Rate,1.5
+Podcast Verified Click-Through Rate,1.5
+Blended Verified Click-Through Rate,1.5
+Case Study Unsubscribe Rate,0.2
+Deal Unsubscribe Rate,0.2
+Off-Market Unsubscribe Rate,0.2
+Podcast Unsubscribe Rate,0.2
+Blended Unsubscribe Rate,0.2
+
+NEWSLETTER SERIES - QUARTERLY
+Quarterly Blended Open Rate, 60.0
+Quarterly Blended Verified Click-Through Rate, 1.5
+Quarterly Blended Unsubscribe Rate,0.3
+
+NEWSLETTER SERIES - ANNUALLY
+Annual Blended Open Rate, 70.0
+Annual Blended Verified Click-Through Rate, 2
+Annual Blended Unsubscribe Rate,0.2
+
+==================================================================
+NEWSLETTER - MONTHLY
+Monthly Newsletter Visits, 120000
+Monthly Newsletter Visit Duration, 150
+Monthly Newsletter Bounce Rate
+
+NEWSLETTER - QUARTERLY
+Quarterly Newsletter Visits, 240000
+Quarterly Newsletter Visit Duration, 150
+Quarterly Newsletter Bounce Rate
+
+NEWSLETTER - ANNUALLY
+Annual Newsletter Visits, 300000
+Annual Newsletter Visit Duration, 170
+Annual Newsletter Bounce Rate
+==================================================================
+DEAL UPGRADE - MONTHLY
+Monthly DU Visits, 1200
+Monthly DU Conversion Rate
+
+DEAL UPGRADE - QUARTERLY
+Quarterly DU Visits, 2500
+Quarterly DU Conversion Rate
+
+DEAL UPGRADE - ANNUALLY
+Annual DU Visits, 3000
+Annual DU Conversion Rate
+==================================================================
+PRO SITE - MONTHLY
+Monthly PS Visits, 15000
+Monthly PS Conversion Rate
+
+PRO SITE - QUARTERLY
+Quarterly PS Visits, 30000
+Quarterly PS Conversion Rate
+
+PRO SITE - ANNUALLY
+Annual PS Visits, 50000
+Annual PS Conversion Rate
+==================================================================
+DISCOVERY & INTRO CALLS - MONTHLY
+Monthly Avg Lead Time (Days)(Completed), 4
+Monthly Booked Calls (Completed) - Discovery, 500
+Monthly Booked Calls (Completed) - Intro, 120
+
+DISCOVERY & INTRO CALLS - QUARTERLY
+Quarterly Avg Lead Time (Days)(Completed), 3
+Quarterly Booked Calls (Completed) - Discovery, 1000
+Quarterly Booked Calls (Completed) - Intro, 350
+
+DISCOVERY & INTRO CALLS - ANNUALLY
+Annual Avg Lead Time (Days)(Completed), 2500
+Annual Booked Calls (Completed) - Discovery, 1500
+Annual Booked Calls (Completed) - Intro, 500
+==================================================================
+SALES TRACKER - MONTHLY
+Monthly Scheduled calls
+Monthly Live Calls
+Monthly Show %, 68
+Monthly Closes, 80
+Monthly Live Call to Close %, 50
+Monthly Offers
+Monthly Offer %, 65
+Monthly Offer to Close %, 20
+Monthly Call to Close %, 50
+
+SALES TRACKER - QUARTERLY
+Quarterly Scheduled calls
+Quarterly Live Calls
+Quarterly Show %, 72
+Quarterly Closes, 200
+Quarterly Live Call to Close %, 75
+Quarterly Offers
+Quarterly Offer %, 65
+Quarterly Offer to Close %, 20
+Quarterly Call to Close %, 75
+
+SALES TRACKER - ANNUALLY
+Annual Scheduled calls
+Annual Live Calls
+Annual Show %, 75
+Annual Closes, 100
+Annual Live Call to Close %, 100
+Annual Offers
+Annual Offer %, 75
+Annual Offer to Close %, 25
+Annual Call to Close %, 100
+==================================================================
+GENERAL NEWSLETTER - MONTHLY
+Monthly Newsletter CVR %, 18.0
+Monthly Growth Rate, 5.0
+Monthly Subscribed, 15000
+Monthly Unsubscribed, 5000
+Monthly Leak Rate, 50
+
+GENERAL NEWSLETTER - QUARTERLY
+Quarterly Newsletter CVR %, 20.0
+Quarterly Growth Rate, 10.0
+Quarterly Subscribed, 35000
+Quarterly Unsubscribed, 4000
+Quarterly Leak Rate, 40
+
+GENERAL NEWSLETTER - ANNUALLY
+Annual Newsletter CVR %, 25.0
+Annual Growth Rate, 15.0
+Annual Subscribed, 50000
+Annual Unsubscribed, 3500
+Annual Leak Rate, 35
+==================================================================
